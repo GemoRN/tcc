@@ -13,14 +13,16 @@ Chef generate cookbook admin
 6.	Now type the following commands 
 
 chef gem install kitchen-docker 
-7.	Go to the directory of the admin cookbook and edit the kitchen.yml file as follows Driver: 
-  Name: docker 
+7.	Go to the directory of the admin cookbook and edit the kitchen.yml file as follows 
+Driver: 
+      Name: docker 
 Transport: 
-	 	Name: docker 
- 	 	Platforms: 
--name: exec  Driver: 
-	 	 	Name: exec 
--name:exec 
+      Name: docker 
+Platforms: 
+      -name: exec  Driver: 
+       Name: exec 
+       -name:exec 
+       
 8.	Now type the following commands 
 >kitchen create 
 >kitchen list 
