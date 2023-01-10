@@ -28,7 +28,11 @@ Platforms:
        -name:exec 
        
 8.	Now type the following commands 
+
 >kitchen create 
+
 >kitchen list 
+
 >kitchen converge 
+
 >kitchen list 
