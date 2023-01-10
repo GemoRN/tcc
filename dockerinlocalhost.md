@@ -8,7 +8,7 @@ Click on Accept and complete the installation of Docker Desktop
 3.	Install minikube https://minikube.sigs.k8s.io/docs/start/  
 Click on the .exe download to download minikube and Install minikube 
  
-4.	Install kubectl for windows https://kubernetes.io/docs/tasks/tools/install-kubectlwindows/ 
+4.	Install kubectl for windows https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/ 
 Click on the latest release and download the kubectl  
 Copy the kubcetl where minikube is saved and then copy the path  
 Go to environment variable:  
