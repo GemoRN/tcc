@@ -1,4 +1,4 @@
-
+Prcatical no 8
 Aim: Installing and Configuring Dockers in localhost and running multiple images on a Docker Platform. 
 Implementation: 
 1.	Installing Docker Desktop https://www.docker.com/products/docker-desktop/ Click on Get Started and download Docker Desktop for Windows 
