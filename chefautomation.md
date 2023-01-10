@@ -1,6 +1,8 @@
 Practical no 9
 Aim: Configuring and deploying VMs/Dockers using Chef/Puppet Automation tool 
  https://www.chef.io/downloads/tools/workstation?os=windows&_gl=1*1sj0jq*_ga*NDIxNDY1NzExLjE2NzMzNjU2NjA.*_ga_9JSNBCSF54*MTY3MzM3NDQ0OC4zLjAuMTY3MzM3NDQ0OS41OS4wLjA.
+
+
 Implementation: 
 1.	To install Chef workstation, search on google for ‘chef workstation windows setup’ and select the first link 
 2.	Select the windows downloads page and download the most stable version of the installer 
