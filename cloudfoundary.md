@@ -3,7 +3,7 @@ Aim: Installing Cloud Foundry in localhost and exploring CF commands.
  
 Implementation: 
 1. Installing Windows Powershell for CloudFoundry 
-https://docs.cloudfoundry.org/cfcli/install-go-cli.html 
+https://docs.cloudfoundry.org/cf-cli/install-go-cli.html
  
 Download installer or binary file: 
  
