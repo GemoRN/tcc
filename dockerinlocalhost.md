@@ -16,8 +16,9 @@ Set the path in environment variable for the user as  well as the system
 Click new > paste the path copied before 
 Check whether Kubectl is installed  
 Open Docker and copy the line below and paste in the command prompt  
-Pull the images in minikube  
-Check for the container status below 
+
+go to windows poer shell docker run -d -p 80:80 docker/getting-started Pull the images in minikube
+minikube start --vm-driver=docker Check for the container status below
  
  
  	 
